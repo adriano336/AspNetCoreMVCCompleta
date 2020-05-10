@@ -1,0 +1,9 @@
+C:\desenvolvedor.io\AppMvcCompleta\MinhaAppMvcCompleta\src\DeviIO.Business\bin\Debug\netcoreapp3.1\DeviIO.Business.deps.json
+C:\desenvolvedor.io\AppMvcCompleta\MinhaAppMvcCompleta\src\DeviIO.Business\bin\Debug\netcoreapp3.1\DeviIO.Business.dll
+C:\desenvolvedor.io\AppMvcCompleta\MinhaAppMvcCompleta\src\DeviIO.Business\bin\Debug\netcoreapp3.1\DeviIO.Business.pdb
+C:\desenvolvedor.io\AppMvcCompleta\MinhaAppMvcCompleta\src\DeviIO.Business\obj\Debug\netcoreapp3.1\DeviIO.Business.csproj.CoreCompileInputs.cache
+C:\desenvolvedor.io\AppMvcCompleta\MinhaAppMvcCompleta\src\DeviIO.Business\obj\Debug\netcoreapp3.1\DeviIO.Business.AssemblyInfoInputs.cache
+C:\desenvolvedor.io\AppMvcCompleta\MinhaAppMvcCompleta\src\DeviIO.Business\obj\Debug\netcoreapp3.1\DeviIO.Business.AssemblyInfo.cs
+C:\desenvolvedor.io\AppMvcCompleta\MinhaAppMvcCompleta\src\DeviIO.Business\obj\Debug\netcoreapp3.1\DeviIO.Business.dll
+C:\desenvolvedor.io\AppMvcCompleta\MinhaAppMvcCompleta\src\DeviIO.Business\obj\Debug\netcoreapp3.1\DeviIO.Business.pdb
+C:\desenvolvedor.io\AppMvcCompleta\MinhaAppMvcCompleta\src\DeviIO.Business\obj\Debug\netcoreapp3.1\DeviIO.Business.csprojAssemblyReference.cache
