@@ -188,7 +188,6 @@ C:\desenvolvedor.io\AppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\n
 C:\desenvolvedor.io\AppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\Razor\Views\Fornecedores\_Endereco.cshtml.g.cs
 C:\desenvolvedor.io\AppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\libman.json
 C:\desenvolvedor.io\AppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.csproj.CoreCompileInputs.cache
-C:\desenvolvedor.io\AppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.MvcApplicationPartsAssemblyInfo.cs
 C:\desenvolvedor.io\AppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.MvcApplicationPartsAssemblyInfo.cache
 C:\desenvolvedor.io\AppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\package-lock.json
 C:\desenvolvedor.io\AppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\Razor\Views\Fornecedores\_DetalhesEndereco.cshtml.g.cs
@@ -199,3 +198,5 @@ C:\desenvolvedor.io\AppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\n
 C:\desenvolvedor.io\AppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\appsettings.Production.json
 C:\desenvolvedor.io\AppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\appsettings.Staging.json
 C:\desenvolvedor.io\AppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\desenvolvedor.io\AppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.MvcApplicationPartsAssemblyInfo.cs
+C:\desenvolvedor.io\AppMvcCompleta\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Summary\Default.cshtml.g.cs
