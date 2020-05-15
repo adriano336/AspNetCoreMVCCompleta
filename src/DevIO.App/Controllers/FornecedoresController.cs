@@ -86,7 +86,8 @@ namespace DevIO.App.Controllers
         [ClaimsAuthorize("Fornecedor", "Editar")]
         [Route("editar-fornecedor/{id:guid}")]
         [HttpPost]
-        [ValidateAntiForgeryToken]
+        //já configurado em o.Filters.Add(new AutoValidateAntiforgeryTokenAttribute());
+        //[ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(Guid id, FornecedorViewModel fornecedorViewModel)
         {
             if (id != fornecedorViewModel.Id) return NotFound();

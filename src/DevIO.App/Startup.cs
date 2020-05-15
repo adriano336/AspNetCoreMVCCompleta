@@ -57,8 +57,14 @@ namespace DevIO.App
             else
             {
                 app.UseExceptionHandler("/Home/Error");
+
+                //Proteger usuário de ataques como ex: "Man in the middle"
+                //Evitando falhas de segurança
                 app.UseHsts();
             }
+
+
+            //Evitando falhas de segurança
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
